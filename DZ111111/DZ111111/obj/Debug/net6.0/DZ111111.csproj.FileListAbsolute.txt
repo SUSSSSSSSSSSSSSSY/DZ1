@@ -1,0 +1,15 @@
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\bin\Debug\net6.0\DZ111111.exe
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\bin\Debug\net6.0\DZ111111.deps.json
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\bin\Debug\net6.0\DZ111111.runtimeconfig.json
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\bin\Debug\net6.0\DZ111111.dll
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\bin\Debug\net6.0\DZ111111.pdb
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.csproj.AssemblyReference.cache
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.AssemblyInfoInputs.cache
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.AssemblyInfo.cs
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.csproj.CoreCompileInputs.cache
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.dll
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\refint\DZ111111.dll
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.pdb
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\DZ111111.genruntimeconfig.cache
+C:\Users\ikhal\source\repos\DZ111111\DZ111111\obj\Debug\net6.0\ref\DZ111111.dll
